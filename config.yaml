@@ -1,4 +1,4 @@
-baseURL: "https://ice2be.github.io/"
+baseURL: "https://ice2be.github.io/public/index.html"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
