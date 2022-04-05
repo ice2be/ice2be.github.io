@@ -1,4 +1,4 @@
-baseURL: "https://ice2be.github.io"
+baseURL: "https://ice2be.github.io/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
@@ -114,7 +114,6 @@ params:
     image: "/images/me.png"
     content: |-
       I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
-
       I am currently working on a project that will be used to help people find the best way to get around the city.
     skills:
       enable: true
@@ -153,10 +152,8 @@ params:
           content: I worked as a software developer for more than one year in Amazon.
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
           - Lead backend developer for a product.
           - Created a frontend design for a product.
-
       - job: "Junior Software Developer"
         company: "Apple"
         companyUrl: "https://example.com"
@@ -168,10 +165,8 @@ params:
           url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
           - Lead backend developer for a product.
           - Created a frontend design for a product.
-
       - job: "UI/UX Designer"
         company: "Netflix"
         companyUrl: "https://example.com"
@@ -181,10 +176,8 @@ params:
           url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
           - Lead backend developer for a product.
           - Created a frontend design for a product.
-
       - job: "Product Designer"
         company: "Google"
         companyUrl: "https://example.com"
@@ -216,7 +209,6 @@ params:
           I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
           - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
           - Face mask detection using a single convolutional neural network.
-
           Extracurricular Activities
             - Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
