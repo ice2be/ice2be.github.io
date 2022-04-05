@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-sm-12 col-md-10 col-lg-8">
+            <h2>{{ .Title }}</h2>
+            {{if .Params.author}}
+            <span class="name">{{ .Params.author }} </span>
+            {{end}}
+            {{if .Params.date}}
+            {{ $dateTime := .PublishDate.Format "2006-01-02" }}
+            {{ $dateFormat := .Site.Params.dateFormat | default "Jan 2, 2006" }}
+            <br />
+            <time datetime="{{ $dateTime }}"><i class="far fa-clock"></i> {{ .PublishDate.Format $dateFormat }}</time>
+            <br />
+            <br />
+            {{end}}
+
+            {{ .Content }}
+        </div>
+    </div>
+</div>
+{{ end }}

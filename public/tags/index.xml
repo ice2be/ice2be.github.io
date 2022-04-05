@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Matthew Zegar | Personal Website</title>
+    <link>https://mzegar.github.io/tags/</link>
+    <description>Recent content in Tags on Matthew Zegar | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mzegar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>generators</title>
+      <link>https://mzegar.github.io/tags/generators/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzegar.github.io/tags/generators/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>https://mzegar.github.io/tags/site/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzegar.github.io/tags/site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static</title>
+      <link>https://mzegar.github.io/tags/static/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzegar.github.io/tags/static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://mzegar.github.io/tags/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzegar.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

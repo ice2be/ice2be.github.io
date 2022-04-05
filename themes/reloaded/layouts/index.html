@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-sm-12 col-md-10 col-lg-8">
+            <div class="jumbotron text-center">
+                <img class="headerImage" src="/images/mattsummer.png" alt="Photo of Matthew Zegar" />
+                <h2 style="padding: 0;">Matthew Zegar</h2>
+                <p>Computer Science Student at Simon Fraser University</p>
+
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-auto icon">
+                            <a href="https://github.com/mzegar"> <i class="fab fa-github"></i></a>
+                        </div>
+                        <div class="col-auto icon">
+                            <a href="https://www.linkedin.com/in/matthewzegar/"> <i class="fab fa-linkedin"></i></a>
+                        </div>
+                        <div class="col-auto icon">
+                            <a href="mailto:matthewzegar@gmail.com"> <i class="fas fa-envelope-square"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{.Content}}
+        </div>
+    </div>
+</div>
+{{ end }}
