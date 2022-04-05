@@ -6,13 +6,32 @@
     <description>Recent content in Posts on Matthew Zegar | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mzegar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mzegar.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Querying the entirety of English Wikipedia in seconds using GPUs and Node.js</title>
+      <link>https://mzegar.github.io/posts/20211216/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzegar.github.io/posts/20211216/</guid>
+      <description>During the summer and fall term I had a chance to intern on the RAPIDS data visualization team working on an assortment of projects. One of the larger projects was hooking up a GPU accelerated SQL engine to Node.js. This enabled us to query extremely large datasets on NVIDIA GPUs straight from TypeScript and Node.js. For example, a downloaded copy of English Wikipedia is ~16 GBs. We were able to query this entire dataset from a Node process in only ~14 seconds with two NVIDIA Titan RTX GPUs.</description>
+    </item>
+    
+    <item>
+      <title>Action Tag</title>
+      <link>https://mzegar.github.io/posts/20210920/</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzegar.github.io/posts/20210920/</guid>
+      <description>I recently went about developing a new modification/game-mode for s&amp;amp;box called &amp;ldquo;Action Tag&amp;rdquo;. You can think of it as a mix between Action Quake and Freeze Tag. This project was a solo-effort. It forced me to learn a few new tools such as Hammer, Blender, Model-doc, etc.
+ Hammer &amp;ldquo;2&amp;rdquo; s&amp;amp;box gives access to the latest set of Valve tools which includes access to Hammer. This version of Hammer is updated to support their latest engine &amp;ldquo;Source 2&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Hugo, Another Static Site Generator</title>
-      <link>https://mzegar.github.io/posts/static-site-generators/</link>
+      <link>https://mzegar.github.io/posts/20210515/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mzegar.github.io/posts/static-site-generators/</guid>
+      <guid>https://mzegar.github.io/posts/20210515/</guid>
       <description>I always took pride in creating my personal websites basically from scratch. But, what&amp;rsquo;s the point of jumping through hoops when other developers already have for me. At this current time, static site generators are the new hip thing, so let&amp;rsquo;s try one out.
 Hugo is a static site generator that basically wraps a bunch of markdown files. This got me excited as previously updating my website was a pain. I had to go through this typical process&amp;hellip;</description>
     </item>

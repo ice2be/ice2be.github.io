@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mzegar.github.io/tags/static/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo, Another Static Site Generator</title>
-      <link>https://mzegar.github.io/posts/static-site-generators/</link>
+      <link>https://mzegar.github.io/posts/20210515/</link>
       <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mzegar.github.io/posts/static-site-generators/</guid>
+      <guid>https://mzegar.github.io/posts/20210515/</guid>
       <description>I always took pride in creating my personal websites basically from scratch. But, what&amp;rsquo;s the point of jumping through hoops when other developers already have for me. At this current time, static site generators are the new hip thing, so let&amp;rsquo;s try one out.
 Hugo is a static site generator that basically wraps a bunch of markdown files. This got me excited as previously updating my website was a pain. I had to go through this typical process&amp;hellip;</description>
     </item>
