@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mzegar.github.io/</loc>
+    <loc>https://ice2be.github.io/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://mzegar.github.io/tags/generators/</loc>
+    <loc>https://ice2be.github.io/tags/generators/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mzegar.github.io/posts/static-site-generators/</loc>
+    <loc>https://ice2be.github.io/posts/static-site-generators/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mzegar.github.io/posts/</loc>
+    <loc>https://ice2be.github.io/posts/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mzegar.github.io/tags/site/</loc>
+    <loc>https://ice2be.github.io/tags/site/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mzegar.github.io/tags/static/</loc>
+    <loc>https://ice2be.github.io/tags/static/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mzegar.github.io/tags/</loc>
+    <loc>https://ice2be.github.io/tags/</loc>
     <lastmod>2021-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mzegar.github.io/categories/</loc>
+    <loc>https://ice2be.github.io/categories/</loc>
   </url><url>
-    <loc>https://mzegar.github.io/projects/</loc>
+    <loc>https://ice2be.github.io/projects/</loc>
   </url><url>
-    <loc>https://mzegar.github.io/tags/projects/</loc>
+    <loc>https://ice2be.github.io/tags/projects/</loc>
   </url>
 </urlset>
