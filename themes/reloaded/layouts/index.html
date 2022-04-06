@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-sm-12 col-md-10 col-lg-8">
+            <div class="jumbotron text-center">
+                <img class="headerImage" src="/images/nick-02.png" alt="Photo of avatar" />
+                <h2 style="padding: 0;">Nicholas Nogueira</h2>
+                <p>Cybersecurity Student at Broward College</p>
+
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-auto icon">
+                            <a href="https://github.com/ice2be"> <i class="fab fa-github"></i></a>
+                        </div>
+                        <div class="col-auto icon">
+                            <a href="https://www.linkedin.com/in/nogueiran/"> <i class="fab fa-linkedin"></i></a>
+                        </div>
+                        <div class="col-auto icon">
+                            <a href="mailto:nogueiran55@gmail.com"> <i class="fas fa-envelope-square"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{.Content}}
+        </div>
+    </div>
+</div>
+{{ end }}
