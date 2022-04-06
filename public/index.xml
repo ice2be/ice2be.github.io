@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ice | Personal Website</title>
-    <link>https://ice2be.github.io/</link>
+    <link>https://www.ice2be.dev/</link>
     <description>Recent content on Ice | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ice2be.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ice2be.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>test</title>
-      <link>https://ice2be.github.io/posts/20211216/</link>
+      <link>https://www.ice2be.dev/posts/20211216/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ice2be.github.io/posts/20211216/</guid>
+      <guid>https://www.ice2be.dev/posts/20211216/</guid>
       <description>Test Test Test Test Test Test Test Test Test Test Test</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://ice2be.github.io/projects/</link>
+      <link>https://www.ice2be.dev/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ice2be.github.io/projects/</guid>
+      <guid>https://www.ice2be.dev/projects/</guid>
       <description>[Palomino RP] Source Engine, Garry&amp;rsquo;s mod (2020-2021) </description>
     </item>
     

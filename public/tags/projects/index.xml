@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects on Ice | Personal Website</title>
-    <link>https://ice2be.github.io/tags/projects/</link>
+    <link>https://www.ice2be.dev/tags/projects/</link>
     <description>Recent content in projects on Ice | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ice2be.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.ice2be.dev/tags/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://ice2be.github.io/projects/</link>
+      <link>https://www.ice2be.dev/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ice2be.github.io/projects/</guid>
+      <guid>https://www.ice2be.dev/projects/</guid>
       <description>[Palomino RP] Source Engine, Garry&amp;rsquo;s mod (2020-2021) </description>
     </item>
     
