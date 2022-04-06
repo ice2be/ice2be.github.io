@@ -1,6 +1,6 @@
 ### About Me
-Hello! My name is Matthew Zegar. I'm currently finishing my Computer Science degree at SFU. This website contains all relevant information
-regarding my work experience, projects, and education.
+Hello, my name is Nick, I am a full-time college student who is majoring in cybersecurity. 
+In my freetime, I enjoy designing levels in the Source Engine. This site contains resources, downloads, and photos of my past and present projects.
 
 ### Work Experience
 **[NVIDIA - Software Intern](https://www.nvidia.com/en-us/) (Jan 2021 - Dec 2021)**
