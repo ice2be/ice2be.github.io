@@ -1,7 +1,7 @@
-baseURL = "https://mzegar.github.io/"
+baseURL = "https://ice2be.github.io/"
 languageCode = "en-us"
 theme = "reloaded"
-title = "Matthew Zegar | Personal Website"
+title = "Ice | Personal Website"
 
 [markup]
     [markup.goldmark]
