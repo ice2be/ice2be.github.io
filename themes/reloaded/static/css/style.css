@@ -5,7 +5,7 @@ body, h1, h2, h3, h4, h5, a {
     font-family: 'Poppins', sans-serif;
 }
 a { 
-    color: #ffffff !important;
+    color: #ffffff;
 }
 
 body {
@@ -91,6 +91,7 @@ pre {
     font-size: 1.4rem;
     font-weight: bold;
     margin: 0 0.2rem 0 0.2rem;
+    color: #ffffff;
 }
 
 .icon {

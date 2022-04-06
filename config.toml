@@ -19,7 +19,3 @@ title = "Ice | Personal Website"
         name = "Posts"
         url = "/posts/"
         weight = 2
-    [[menu.main]]
-        name = "Photos"
-        url = "/photos/"
-        weight = 3

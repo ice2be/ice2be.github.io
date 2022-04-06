@@ -1,5 +1,5 @@
 ### About Me
-Hello, my name is Nicholas, I am a full-time college student who is majoring in Cybersecurity. In my freetime, I enjoy designing levels in the Source Engine. This site contains projects I have worked on, as well as relevant information regarding my education.
+Hello, my name is Nicholas, I am a full-time college student who is majoring in Cybersecurity. This site contains non-school related projects I have worked on, as well as relevant information regarding my education. 
 
 ### Certifications
 CompTIA Certifications: [CompTIA A+](https://www.comptia.org/certifications/a)
