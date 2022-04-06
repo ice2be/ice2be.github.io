@@ -10,6 +10,7 @@ Adobe Certified Professional | Web Communication using Adobe Dreamweaver CS6
 
 ### Education
 Associates of Science - Information Technology (Sept 2019 - May 2021)
+
 Bachelor of Science - Cybersecurity (May 2021 - Present)
 
 Broward College, Davie, Florida.

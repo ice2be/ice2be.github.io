@@ -3,9 +3,9 @@
 
 name = "Reloaded"
 license = "MIT"
-licenselink = "https://github.com/mzegar/mzegar.github.io/blob/master/LICENSE"
+licenselink = "https://github.com/ice2be/ice2be.github.io/blob/master/LICENSE"
 description = ""
-homepage = "https://mzegar.github.io/"
+homepage = "https://ice2be.github.io/"
 tags = []
 features = []
 min_version = "0.41.0"
