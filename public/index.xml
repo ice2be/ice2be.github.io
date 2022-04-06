@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthew Zegar | Personal Website</title>
+    <link>https://mzegar.github.io/</link>
+    <description>Recent content on Matthew Zegar | Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mzegar.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo, Another Static Site Generator</title>
+      <link>https://mzegar.github.io/posts/static-site-generators/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzegar.github.io/posts/static-site-generators/</guid>
+      <description>I always took pride in creating my personal websites basically from scratch. But, what&amp;rsquo;s the point of jumping through hoops when other developers already have for me. At this current time, static site generators are the new hip thing, so let&amp;rsquo;s try one out.
+Hugo is a static site generator that basically wraps a bunch of markdown files. This got me excited as previously updating my website was a pain. I had to go through this typical process&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mzegar.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mzegar.github.io/projects/</guid>
+      <description>Retter - Flutter Reddit App Dart, Flutter (Jun 2020)
+ A complete Reddit experience built using Flutter Open sourced and contributed to by other developers Built for iOS and Android  Social Gaming App C++, GoogleTest, CMake (Jan 2020 - Apr 2020)
+ Developed the application using modern C++ practices Created a build system using CMake Wrote extensive testing for the application using the GoogleTest framework Led an eight-person group as the &amp;ldquo;Project Manager&amp;rdquo;  Database Interface Java, JavaFX, Spring (Apr 2019)</description>
+    </item>
+    
+  </channel>
+</rss>
