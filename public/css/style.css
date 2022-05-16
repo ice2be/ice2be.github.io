@@ -16,6 +16,7 @@ body {
 img {
     max-width: 100%;
     height: auto;
+    object-fit: cover;
 }
 
 iframe {
@@ -114,4 +115,13 @@ pre {
     .title-sm-view{
         display:inline-block;
     }
+}
+
+.thumbnail img {
+    height:300px;
+    width:400px;
+    object-fit: cover;
+    float: left;
+    padding: 15px 12px;
+    display: block;
 }
