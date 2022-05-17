@@ -18,7 +18,7 @@ tags = [
 
 <h1>Los Pollos</h1>
 
-[Los Pollos ](https://breakingbad.fandom.com/wiki/Los_Pollos_Hermanos.) is a recreation of the iconic fast food chain from the hit tv show [Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad).
+[Los Pollos](https://breakingbad.fandom.com/wiki/Los_Pollos_Hermanos.) is a recreation of the iconic fast food chain from the hit tv show [Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad).
 
 <div class="thumbnail img">
 <img src="https://drive.google.com/uc?export=view&id=1zB9RvnYkZjOz1BWYF4uiyUaq39eZMgPq" alt="photo">

@@ -3,21 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.ice2be.dev/</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://www.ice2be.dev/posts/20211216/</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.ice2be.dev/posts/</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.ice2be.dev/projects/</loc>
   </url><url>
-    <loc>https://www.ice2be.dev/posts/20211216/</loc>
-  </url><url>
     <loc>https://www.ice2be.dev/categories/</loc>
-  </url><url>
-    <loc>https://www.ice2be.dev/posts/</loc>
   </url><url>
     <loc>https://www.ice2be.dev/tags/projects/</loc>
   </url><url>
     <loc>https://www.ice2be.dev/tags/sbox/</loc>
-  </url><url>
-    <loc>https://www.ice2be.dev/tags/sbox-ttt-source-2/</loc>
   </url><url>
     <loc>https://www.ice2be.dev/tags/source-2/</loc>
   </url><url>

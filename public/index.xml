@@ -5,7 +5,17 @@
     <link>https://www.ice2be.dev/</link>
     <description>Recent content on Ice | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.ice2be.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.ice2be.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Worthy Sucessor</title>
+      <link>https://www.ice2be.dev/posts/20211216/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.ice2be.dev/posts/20211216/</guid>
+      <description>In late 2012, a friend from school introduced me to a game called Garry&amp;rsquo;s mod. Garry&amp;rsquo;s Mod is a sandbox game that has no set objective. Built on a modified version of Valves Source engine, Garry&amp;rsquo;s Mod is an extremely modder-friendly game. As a result, many popular mods were created which led to the creation of multiplayer servers that revolved around specific mods. Garry&amp;rsquo;s mod was one of the first games I invested a good chunk of my free time in.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://www.ice2be.dev/projects/</link>
@@ -13,17 +23,8 @@
       
       <guid>https://www.ice2be.dev/projects/</guid>
       <description>TerminalTerminal is a recreation of a classic map from the game Call of Duty: Modern Warfare 2. The layout of this recreation shares many similarities with the original, however, utilizes a different art style.
-Los PollosLos Pollos  is a recreation of the iconic fast food chain from the hit tv show Breaking Bad.
+Los PollosLos Pollos is a recreation of the iconic fast food chain from the hit tv show Breaking Bad.
 North PeakNorth Peak is a small town located in a snow covered valley.</description>
-    </item>
-    
-    <item>
-      <title>A Worthy Sucessor</title>
-      <link>https://www.ice2be.dev/posts/20211216/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.ice2be.dev/posts/20211216/</guid>
-      <description>In late 2012, a friend from school introduced me to a game called Garry&amp;rsquo;s mod. Garry&amp;rsquo;s Mod is a sandbox game that has no set objective. Built on a modified version of Valves Source engine, Garry&amp;rsquo;s Mod is an extremely modder-friendly game. As a result, many popular mods were created which led to the creation of multiplayer servers that revolved around specific mods. Garry&amp;rsquo;s mod was one of the first games I invested a good chunk of my free time in.</description>
     </item>
     
   </channel>
